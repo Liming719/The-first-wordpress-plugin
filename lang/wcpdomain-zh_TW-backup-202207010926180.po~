@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Word Count Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-01 08:17+0000\n"
+"PO-Revision-Date: 2022-07-01 09:12+0000\n"
+"Last-Translator: Li Ming\n"
+"Language-Team: 繁體中文\n"
+"Language: zh_TW\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0\n"
+"X-Domain: wcpdomain"
+
+#: the-first-plugin.php:18
+msgid "Character Count"
+msgstr "字元計數"
+
+#. Author of the plugin
+msgid "Li Ming"
+msgstr ""
+
+#: the-first-plugin.php:89
+msgid "minute(s)"
+msgstr "分鐘"
+
+#: the-first-plugin.php:24
+msgid "Read Time"
+msgstr "閱讀時間"
+
+#: the-first-plugin.php:89
+msgid "second(s)"
+msgstr "秒"
+
+#. Description of the plugin
+msgid "The very first plugin"
+msgstr ""
+
+#: the-first-plugin.php:77 the-first-plugin.php:81
+msgid "This article has"
+msgstr "這篇文章有"
+
+#: the-first-plugin.php:12 the-first-plugin.php:100
+msgid "Word Count"
+msgstr "字數"
+
+#. Name of the plugin
+msgid "Word Count Plugin"
+msgstr "文章字數"
+
+#: the-first-plugin.php:100
+msgid "Word Count Settings"
+msgstr "文章字數訊息設定"

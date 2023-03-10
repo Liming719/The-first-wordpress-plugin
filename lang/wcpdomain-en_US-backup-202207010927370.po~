@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Word Count Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-01 08:17+0000\n"
+"PO-Revision-Date: 2022-07-01 08:54+0000\n"
+"Last-Translator: Li Ming\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0\n"
+"X-Domain: wcpdomain"
+
+#. Author of the plugin
+msgid "Li Ming"
+msgstr ""
+
+#. Description of the plugin
+msgid "The very first plugin"
+msgstr ""
+
+#: the-first-plugin.php:77 the-first-plugin.php:81
+msgid "This article has"
+msgstr ""
+
+#: the-first-plugin.php:100
+msgid "Word Count"
+msgstr "Word Count"
+
+#. Name of the plugin
+msgid "Word Count Plugin"
+msgstr ""
